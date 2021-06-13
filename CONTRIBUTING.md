@@ -1,6 +1,6 @@
 # Contributing
 
-Be sure to adhere to our [code of conduct](https://github.com/Fleshgrinder/.github/CODE_OF_CONDUCT.md).
+Be sure to adhere to our [code of conduct].
 
 ## Discussions
 
@@ -21,3 +21,6 @@ not agreed before that the change is useful and aligned with the vision of the
 project. It is thus recommended starting a discussion or opening an issue before
 spending hours on big changes that might get rejected later. It is still fine to
 directly go for a pull request if you want the learning experience.
+
+<!-- @formatter:off -->
+[code of conduct]: https://github.com/Fleshgrinder/.github/blob/main/CODE_OF_CONDUCT.md
